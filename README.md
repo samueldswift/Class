@@ -40,5 +40,12 @@ Filenames
 
 ![this image is in my repository folder](IMG_0816.jpg)
 
+## Test Table
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 # Versioning
 I have 2 versions of the repository. I made a branch and merged the changes only once with the original main branch.
