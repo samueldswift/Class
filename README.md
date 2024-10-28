@@ -1,3 +1,5 @@
+THIS IS A SAMPLE REPOSITORY
+
 # Table of Contents
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
