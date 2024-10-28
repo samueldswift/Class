@@ -23,8 +23,8 @@ THIS IS A SAMPLE README.md file. Refer back to this for formatting in future pro
 
 # Files Used
 
-Filenames
-
+Filenames/
+└──
     |-- README.md
     
     |-- Mini_Project_1.twbx 
