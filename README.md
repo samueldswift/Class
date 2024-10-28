@@ -25,8 +25,11 @@ THIS IS A SAMPLE README.md file. Refer back to this for formatting in future pro
 
 Filenames
 |___
+
     |-- README.md
+    
     |-- Mini_Project_1.twbx 
+    
     |-- hello_world.py
 
 [Here's my example link:](https://sam-swift.square.site/)
