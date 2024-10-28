@@ -40,7 +40,7 @@ Filenames
 # Additional Documentation
 **No** additional documentation at this time
 
-![this image is in my repository folder](IMG_0816.jpg)
+![this image is in my repository folder](IMG_0816.JPG)
 
 ## Test Table
 
