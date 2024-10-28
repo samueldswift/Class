@@ -1,4 +1,4 @@
-THIS IS A SAMPLE REPOSITORY
+THIS IS A SAMPLE README.md file. Refer back to this for formatting in future projects. This may be an example of documentation
 
 # Table of Contents
 - [PROJECT TITLE](#Project-Title)
@@ -9,15 +9,36 @@ THIS IS A SAMPLE REPOSITORY
 - [VERSIONING](#versioning)
 
 
-# Project Title
-## H2
-### H3
+# Project Title: Halloween Trick or Treating
+### Hello world 
 
 # Description
+### This seasonal dataset examines the amount of trick or treaters in an Ohio neighborhood every halloween over the course of the night since 2008. 
 
 # How to run program
 1. First item
 2. Second item
 3. Third item
 
-*italicized text*
+
+# Files Used
+
+Filenames
+|___
+    |-- README.md
+    |-- Mini_Project_1.twbx 
+    |-- hello_world.py
+
+[Here's my example link:](https://sam-swift.square.site/)
+
+*I created both the Python and Tableau files myself, but there is underlying data in the Tableau that I found publicly from a professor in Ohio who tracks Halloween trick or treating*
+
+
+
+# Additional Documentation
+**No** additional documentation at this time
+
+![this image is in my repository folder](IMG_0816.jpg)
+
+# Versioning
+I have 2 versions of the repository. I made a branch and merged the changes only once with the original main branch.
